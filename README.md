@@ -7,3 +7,11 @@ It also has a filter to search by category and price.
 It has validations for the fields names, email, and password.
 
 A MySQL database is used, this project is made for production, authentication and account creation are designed for a large project in production.
+
+# Dependencies to install
+
+type `npm install` and press enter
+
+# to initialize project
+
+type `npm run dev`
